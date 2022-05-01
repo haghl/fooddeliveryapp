@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42407133838",
+    "project_id": "fooddeliveryapp-e2acf",
+    "storage_bucket": "fooddeliveryapp-e2acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42407133838:android:1d432b2ba5ee14ca36bfdf",
+        "android_client_info": {
+          "package_name": "com.haghl.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42407133838-oqdkgqrb096q3vdndri2meqgh5881imo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVlGDLVxYVOKCQ94_Paay1MP76BpLwXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42407133838-oqdkgqrb096q3vdndri2meqgh5881imo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
